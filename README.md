@@ -19,7 +19,7 @@
   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Igor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Igor-Dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="right" alt="Igor-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQFTFJuf2MI1FA/profile-displayphoto-shrink_800_800/0/1632407682181?e=1648684800&v=beta&t=9Pjs_h-b4fULJi5M_E0DUY9R4oonk2Ajx10OdmGosYA">
+  <img align="right" alt="Igor-pic" height="150" style="border-radius:50px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Famong-us-da-games-gif-19727845&psig=AOvVaw0rw4shQOLiYqLjZlqjlhbK&ust=1643735998436000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjAg_i_3PUCFQAAAAAdAAAAABAD">
 </div>
   
 ##
