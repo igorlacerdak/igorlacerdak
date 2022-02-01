@@ -34,8 +34,8 @@
   
    ### Spotify Playing 🎧
   <div style="display: inline_block">
-   <img src="https://spotify-igorlacerdak.vercel.app/api/spotify-playing" alt="Spotify Now Playing" align="center" width="350" href="https://open.spotify.com/user/igorlacerdak"/>
-   <img align="right" alt="Igor-pic" height="150" style="border-radius:50px;" src="https://github.com/igorlacerdak/igorlacerdak/blob/main/assets/Paz.gif">
+   <img src="https://spotify-igorlacerdak.vercel.app/api/spotify-playing" alt="Spotify Now Playing" align="center" width="400" href="https://open.spotify.com/user/igorlacerdak"/>
+   <img align="center" alt="Igor-pic" height="110" style="border-radius:50px;" src="https://github.com/igorlacerdak/igorlacerdak/blob/main/assets/Paz.gif">
   </div>
   
   ![Snake animation](https://github.com/igorlacerdak/igorlacerdak/blob/output/github-contribution-grid-snake.svg)
