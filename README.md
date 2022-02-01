@@ -36,4 +36,6 @@
   
  </div>
   
- [![Spotify](https://igorlacerdak.vercel.app.vercel.app/api/spotify)](https://open.spotify.com/user/igorlacerdak)
+ ### Spotify Playing 🎧
+
+[<img src="https://spotify-igorlacerdak.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/igorlacerdak)
