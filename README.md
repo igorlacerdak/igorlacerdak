@@ -19,7 +19,6 @@
   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Igor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Igor-Dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="right" alt="Igor-pic" height="150" style="border-radius:50px;" src="https://github.com/igorlacerdak/igorlacerdak/blob/main/assets/Paz.gif">
 </div>
   
 ##
@@ -32,10 +31,14 @@
   <a href = "mailto:igorforplayofc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igorlacerdasantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+  
+   ### Spotify Playing 🎧
+  <div style="display: inline_block">
+   <img src="https://spotify-igorlacerdak.vercel.app/api/spotify-playing" alt="Spotify Now Playing" align="center" width="350" href="https://open.spotify.com/user/igorlacerdak"/>
+   <img align="right" alt="Igor-pic" height="150" style="border-radius:50px;" src="https://github.com/igorlacerdak/igorlacerdak/blob/main/assets/Paz.gif">
+  </div>
+  
   ![Snake animation](https://github.com/igorlacerdak/igorlacerdak/blob/output/github-contribution-grid-snake.svg)
   
  </div>
   
- ### Spotify Playing 🎧
-
-[<img src="https://spotify-igorlacerdak.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/igorlacerdak)
