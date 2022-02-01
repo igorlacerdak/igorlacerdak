@@ -35,3 +35,5 @@
   ![Snake animation](https://github.com/igorlacerdak/igorlacerdak/blob/output/github-contribution-grid-snake.svg)
   
  </div>
+  
+ [![Spotify](https://igorlacerdak.vercel.app.vercel.app/api/spotify)](https://open.spotify.com/user/igorlacerdak)
