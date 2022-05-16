@@ -1,7 +1,7 @@
 ### Olá, me chamo Igor Lacerda Santos | Atualmente Desenvolvedor de Software na ZEMA 👋
 
 - 🔭 Hoje atualmente trabalho full-stack (C# .NET | ASP.NET | REACT | NODE | SQL SERVER)
-- 🌱 Estudando (.NET | NODE | REACT)
+- 📚 Estudando (.NET | NODE | REACT)
 - 📫 Contate-me no email: igorlacerdasantos@hotmail.com
 - 🔗 Linkedin: https://www.linkedin.com/in/igorlacerdasantos/
 
